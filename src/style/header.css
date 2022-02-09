@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+.header{
+border-bottom: 0.1px solid black;
+position: fixed;
+top: 0;
+width: 100%;
+background: white;
+}.head{
+  margin-top: 3vw;
+  margin-bottom: 2vw;
+  margin-left: 6vw;
+  font-family: 'Comforter', cursive;
+}
+.mar{
+  margin-bottom: 15vw;
+}

@@ -1,0 +1,30 @@
+.log{
+  margin-top: 35vh;
+  text-align: center;
+  background: #dcf6f6;
+  height: 30vh;
+  width: 90vw;
+  border-radius: 20px;
+}.un{
+  height: 4vh;
+  outline: none;
+  border-radius: 20px;
+  padding: 4px;
+  border: #dcf6f6 2px solid;
+  margin-top: 5vh;
+}.ps{
+  height: 4vh;
+  outline: none;
+  border-radius: 20px;
+  padding: 4px;
+  border: #dcf6f6 2px solid;
+  margin-top: 1vh;
+}.ca{
+  margin-top: 1vh;
+}.lg{
+  margin-top: 1vh;
+  width: 30vw;
+  height: 4vh;
+  border-radius: 20px;
+  border: none;
+}

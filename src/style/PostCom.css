@@ -1,0 +1,22 @@
+.ta{
+  width: 92%;
+border-radius: 20px;
+outline: none;
+height: 50vw;
+padding: 8px;
+margin-bottom: 3vw;
+}.file{
+
+}
+::-webkit-file-upload-button{
+  border: none;
+  height: 30px;
+  width: 150px;
+  border-radius: 20px;
+}.btn{
+  margin-top: 4vw;
+  width: 150px;
+  height: 30px;
+  border-radius: 20px;
+  border: none;
+}

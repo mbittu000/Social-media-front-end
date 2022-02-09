@@ -1,0 +1,19 @@
+.scom{
+  display: flex;
+}.srch{
+  width: 86%;
+  height: 7vw;
+  border-radius: 10px;
+  outline: none;
+  padding: 4px;
+  margin-left: 5vw;
+}.clear{
+  margin-left: -5vw;
+  margin-top: 2.5vw;
+}.srbtn{
+  width: 30vw;
+  height: 4vh;
+  border: none;
+  border-radius: 20px;
+  margin-top: 2v;
+}

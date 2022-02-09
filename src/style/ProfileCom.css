@@ -1,0 +1,19 @@
+.ppro{
+  width: 30vw;
+  height: 30vw;
+  object-fit: cover;
+  border-radius: 100px;
+}.puser,.pname{
+  font-size: 13px;
+}.pname{
+  font-weight: bold;
+}.info{
+  display: flex;
+  justify-content: center;
+  margin-top: 5vw;
+  
+}.ppost{
+  margin-right: 15vw;
+}.pfollow{
+  margin-right: 15vw;
+}
